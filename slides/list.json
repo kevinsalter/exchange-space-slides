@@ -3,12 +3,12 @@
   "bex-intro.html",
   {
     "attr": {
-      "data-background": "../img/bex-world-map.jpg"
+      "data-background": "img/bex-world-map.jpg"
     }
   },
   {
     "attr": {
-      "data-background": "../img/bex-partner-model.jpg"
+      "data-background": "img/bex-partner-model.jpg"
     }
   },
   "references.html"
