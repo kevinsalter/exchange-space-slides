@@ -7,7 +7,7 @@ module.exports = (grunt) ->
 
             livereload:
                 options:
-                    livereload: true
+                    livereload: 35731
                 files: [
                     'index.html'
                     'slides/*.md'
@@ -46,7 +46,7 @@ module.exports = (grunt) ->
 
             livereload:
                 options:
-                    port: 9000
+                    port: 9010
                     # Change hostname to '0.0.0.0' to access
                     # the server from outside.
                     hostname: 'localhost'
