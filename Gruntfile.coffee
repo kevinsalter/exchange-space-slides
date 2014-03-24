@@ -76,6 +76,7 @@ module.exports = (grunt) ->
                     expand: true
                     src: [
                         'slides/**'
+                        'img/**'
                         'bower_components/**'
                         'js/**'
                         'css/*.css'
@@ -87,6 +88,13 @@ module.exports = (grunt) ->
                     dest: 'dist/'
                     filter: 'isFile'
                 }]
+
+        'gh-pages':
+
+            options: {
+                base: 'dist'
+            },
+            src: ['**']
 
 
     # Load all grunt tasks.
