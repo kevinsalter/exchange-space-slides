@@ -1,15 +1,24 @@
 [
-  "index.md",
-  "bex-intro.html",
-  {
-    "attr": {
-      "data-background": "img/bex-world-map.jpg"
-    }
-  },
-  {
-    "attr": {
-      "data-background": "img/bex-partner-model.jpg"
-    }
-  },
-  "references.html"
+    "index.md",
+    "bex-intro.html",
+    {
+        "attr": {
+            "data-background": "img/bex-world-map.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "img/bex-partner-model.jpg"
+        }
+    },
+    "mt-gox-collapse.html",
+    "coinbase-blog-post.html",
+    "topics-brought-into-sharper-focus-post-gox.html",
+    "transparency-through-3rd-party-audits.html",
+    "regulatory-measures.html",
+    "exchange-security.html",
+    "potential-future-exchange-structures.html",
+    "bitcoin-wallets.html",
+    "link-to-slides.html",
+    "references.html"
 ]
