@@ -1,5 +1,6 @@
 [
     "index.md",
+    "link-to-slides.html",
     "bex-intro.html",
     {
         "attr": {
@@ -18,6 +19,9 @@
     "regulatory-measures.html",
     "exchange-security.html",
     "potential-future-exchange-structures.html",
+    "multisig-wallet.html",
+    "2-of-3-escrow.html",
+    "cryptocorp.html",
     "bitcoin-wallets.html",
     "link-to-slides.html",
     "references.html"

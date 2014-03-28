@@ -1,3 +1,3 @@
 
-# Bitcoin Exchange Space
+# Bitcoin Exchange Space and Beyond
 ### March 2014
